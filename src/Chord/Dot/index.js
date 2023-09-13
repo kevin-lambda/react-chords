@@ -42,7 +42,7 @@ const Dot = ({ string, fret, finger, strings, lite }) =>
         cy={positions.fret[fret]}
         r={fret === 0 ? radius["open"] : radius["fret"]}
       />
-      {!lite && finger > 0 && (
+      {!lite && finger && (
         <text
           fontSize="3pt"
           fontFamily="Verdana"
