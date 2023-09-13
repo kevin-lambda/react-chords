@@ -65,8 +65,8 @@ Chord.propTypes = {
   lite: PropTypes.bool,
 };
 
-Chord.defaultProps = {
-  lite: false,
-};
+// Chord.defaultProps = {
+//   lite: false,
+// };
 
 export default Chord;

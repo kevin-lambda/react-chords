@@ -65,9 +65,9 @@ Dot.propTypes = {
   lite: PropTypes.bool,
 };
 
-Dot.defaultProps = {
-  fret: 0,
-  lite: false,
-};
+// Dot.defaultProps = {
+//   fret: 0,
+//   lite: false,
+// };
 
 export default Dot;

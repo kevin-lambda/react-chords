@@ -115,9 +115,9 @@ Neck.propTypes = {
   lite: PropTypes.bool,
 };
 
-Neck.defaultProps = {
-  baseFret: 1,
-  lite: false,
-};
+// Neck.defaultProps = {
+//   baseFret: 1,
+//   lite: false,
+// };
 
 export default Neck;
