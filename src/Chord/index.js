@@ -18,7 +18,8 @@ const Chord = ({ chord, instrument, lite }) =>
       width="100%"
       xmlns="http://www.w3.org/2000/svg"
       preserveAspectRatio="xMinYMin meet"
-      viewBox="0 0 80 70"
+      // was viewBox="0 0 80 70"
+      viewBox="6 2 65 64"
     >
       <g transform="translate(13, 13)">
         <Neck
